@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{n}{K} \PYG{p}{=} \PYG{n}{lqr}\PYG{p}{(}\PYG{n}{inv}\PYG{p}{(}\PYG{n}{Em}\PYG{p}{)}\PYG{o}{*}\PYG{n}{Am}\PYG{p}{,}\PYG{n}{inv}\PYG{p}{(}\PYG{n}{Em}\PYG{p}{)}\PYG{o}{*}\PYG{n}{Bm}\PYG{p}{,}\PYG{n}{Qp}\PYG{p}{,}\PYG{n}{Rp}\PYG{p}{)}
+\end{Verbatim}
